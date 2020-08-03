@@ -17,7 +17,7 @@ Semi Complete game done for a 3D Game Programming class in college. Don't plan o
 
 ## Photos of Game:
 ### Nocturnal Mode:
-- ![A](https://drive.google.com/file/d/16ssXMAr-A8PPvvNoY0PCAdiUjwHA1Ohz/view?usp=sharing)
+- ![A](https://imgur.com/ww5KY3Y)
 - ![B](https://drive.google.com/file/d/1TRfl0B0ynS4z4nUlkFKL82Bi63Df_ZYa/view?usp=sharing)
 - ![C](https://drive.google.com/file/d/1awCAkcVoQ1J9n_4ci3NDYjjCeyLmS4Oy/view?usp=sharing)
 - ![D](https://drive.google.com/file/d/1oFcKZCPPGmifRdUGFMPx0TEuLgcNRUTY/view?usp=sharing)
