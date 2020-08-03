@@ -1,8 +1,8 @@
 # Celebrity Slenderman Game
 
 ## Download
-Mac (.app) download to play game available at: https://drive.google.com/file/d/1ThSd3PRnOy5Znr587id5cOt6XZTwL2kd/view?usp=sharing
-PC (.exe) download to play game currently unavailable. I unfortunately can't find it in my files. It can be made by downloading the project and then extracting as a .exe file.
+- Mac (.app) download to play game available at: https://drive.google.com/file/d/1ThSd3PRnOy5Znr587id5cOt6XZTwL2kd/view?usp=sharing
+- PC (.exe) download to play game currently unavailable. I unfortunately can't find it in my files. It can be made by downloading the project and then extracting as a .exe file.
 
 ## Info Document
 .Docx download available at: https://drive.google.com/file/d/1dS4y_JnVKRtnvFZ2_k6ggpEjRIpjgMgO/view?usp=sharing
