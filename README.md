@@ -45,3 +45,45 @@ Semi Complete game done for a 3D Game Programming class in college. Don't plan o
 ## Credits
 Credits to the music, assets, fonts, textures, etc and more included here:
 
+### Assets:
+- Tree(s), Flashlight, Grass image, and truck from Masterdeveloper’s Slenderkit - http://masterdevelopers.altervista.org/?page_id=160
+- Farm House - http://tf3dm.com/3d-model/old-farm-house-91130.html
+- Oil Tank - https://www.assetstore.unity3d.com/en/#!/content/676
+- Ground texture - http://freetexturesfor3d.com/wp-content/uploads/2015/02/crackeddirt-2048.jpg
+- Lava texture – https://s-media-cache-ak0.pinimg.com/736x/6a/52/5e/6a525ed90375e6f4f760985d5700f3f8.jpg
+- “Paris Hilton” – https://www.assetstore.unity3d.com/en/#!/content/50690
+- Axe asset - https://www.assetstore.unity3d.com/en/#!/content/56928
+- Knife Asset - https://www.assetstore.unity3d.com/en/#!/content/7597
+- Map Boundary/Fence - https://www.assetstore.unity3d.com/en/#!/content/2437
+- Skeleton - http://tf3dm.com/download-page.php?url=skeleton-with-organs-91102
+- Nachtmare Productions font - http://www.1001freefonts.com/damned_deluxe.font
+- Pause and Lose Game font - http://www.1001freefonts.com/face_your_fears.font
+- Pages Collected and Main Menu font - http://www.1001freefonts.com/nightbird.font
+- Creepy Chair - http://tf3dm.com/download-page.php?url=wooden-chair-99791
+- Campfire - http://tf3dm.com/download-page.php?url=campfire-94559
+- Stop Sign - http://tf3dm.com/download-page.php?url=stop-sign-58062
+- Tomb - http://tf3dm.com/download-page.php?url=tomb2-4982
+- Giant Tomb - http://tf3dm.com/download-page.php?url=tomb-83349
+- Debris - http://tf3dm.com/download-page.php?url=urban-debris-85706
+- Bernie Sanders photo - http://i.imgur.com/h5BOpJG.jpg?1
+- Everything else original
+
+### Audio:
+- Flashlight clicking sound from Masterdeveloper’s Slenderkit - http://masterdevelopers.altervista.org/?page_id=160
+- Wind Sound Used: https://www.youtube.com/watch?v=VGvTxWvJQ8s
+- Main Menu: American Horror Story https://www.youtube.com/watch?v=rqJGHL3lnSM
+- Gameplay audio: https://www.youtube.com/watch?v=wpnsn1pGaqk
+- Footstep & Paper-found audio: https://www.youtube.com/watch?v=XJDN_0PKKIw
+- Splash screen audio: https://www.youtube.com/watch?v=vfthzU3V4zo
+- Gamemode audio: https://www.youtube.com/watch?v=ptYX5cAcO0k
+- Everything else original
+ 
+### Scripts:
+- Flashlight turn on/off from Masterdeveloper’s Slenderkit - http://masterdevelopers.altervista.org/?page_id=160
+- Movement script from Unity3D Website:
+https://docs.unity3d.com/ScriptReference/Input.GetAxis.html
+- UnitySingleton, MusicScript, and ChangeScene from Aaron Acosta’s “Really Bad Game”.
+- EnemyScript (teleporting) from http://answers.unity3d.com/questions/409270/what-happened-to-the-slender-guide-by-alucardj.html
+- RotateMoveCheck from an online resource but I have been unable to find it again.
+- CollectPages modified from: http://answers.unity3d.com/questions/409270/what-happened-to-the-slender-guide-by-alucardj.html
+- Everything else original
