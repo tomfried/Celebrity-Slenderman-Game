@@ -7,7 +7,8 @@ PC (.exe) download to play game currently unavailable. I unfortunately can't fin
 ## Info Document
 .Docx download available at: https://drive.google.com/file/d/1dS4y_JnVKRtnvFZ2_k6ggpEjRIpjgMgO/view?usp=sharing
 
-## Co-contributors
+## Original Contributors
+- Thomas Friedrich ([@tomfried](https://github.com/tomfried))
 - Patrick Dunlea ([@flufferdoodles](https://github.com/Flufferdoodles))
 - 
 
