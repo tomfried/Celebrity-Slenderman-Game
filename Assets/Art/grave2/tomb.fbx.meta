@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: bcff7939deaf54d6ca9385be2f9ec624
+timeCreated: 1482265012
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1
+    100002: Conector
+    100004: Conector_1
+    100006: Cubo
+    100008: Cubo_1
+    100010: Cubo_2
+    100012: Cubo_3
+    100014: I
+    100016: I_2
+    100018: Luz
+    100020: Objeto_Texto
+    100022: P
+    100024: P_2
+    100026: R
+    100028: R_2
+    100030: Tapa_1
+    100032: Tapa_1_2
+    100034: Tapa_1_3
+    100036: Tapa_2
+    100038: Tapa_2_2
+    100040: Tapa_2_3
+    100042: Texto
+    100044: //RootNode
+    100046: Tubo
+    400000: 1
+    400002: Conector
+    400004: Conector_1
+    400006: Cubo
+    400008: Cubo_1
+    400010: Cubo_2
+    400012: Cubo_3
+    400014: I
+    400016: I_2
+    400018: Luz
+    400020: Objeto_Texto
+    400022: P
+    400024: P_2
+    400026: R
+    400028: R_2
+    400030: Tapa_1
+    400032: Tapa_1_2
+    400034: Tapa_1_3
+    400036: Tapa_2
+    400038: Tapa_2_2
+    400040: Tapa_2_3
+    400042: Texto
+    400044: //RootNode
+    400046: Tubo
+    2300000: Conector
+    2300002: Conector_1
+    2300004: Cubo
+    2300006: Cubo_1
+    2300008: Cubo_2
+    2300010: Cubo_3
+    2300012: I_2
+    2300014: P_2
+    2300016: R_2
+    2300018: Tapa_1
+    2300020: Tapa_1_2
+    2300022: Tapa_1_3
+    2300024: Tapa_2
+    2300026: Tapa_2_2
+    2300028: Tapa_2_3
+    2300030: Tubo
+    3300000: Conector
+    3300002: Conector_1
+    3300004: Cubo
+    3300006: Cubo_1
+    3300008: Cubo_2
+    3300010: Cubo_3
+    3300012: I_2
+    3300014: P_2
+    3300016: R_2
+    3300018: Tapa_1
+    3300020: Tapa_1_2
+    3300022: Tapa_1_3
+    3300024: Tapa_2
+    3300026: Tapa_2_2
+    3300028: Tapa_2_3
+    3300030: Tubo
+    4300000: R_2
+    4300002: Tapa_1
+    4300004: Tapa_2
+    4300006: I_2
+    4300008: Tapa_1_2
+    4300010: Tapa_2_2
+    4300012: P_2
+    4300014: Tapa_1_3
+    4300016: Tapa_2_3
+    4300018: Cubo_1
+    4300020: Cubo
+    4300022: Cubo_3
+    4300024: Cubo_2
+    4300026: Tubo
+    4300028: Conector
+    4300030: Conector_1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
