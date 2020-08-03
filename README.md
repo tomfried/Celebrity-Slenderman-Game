@@ -3,6 +3,9 @@
 ## Download
 Mac (.app) download to play game available at: https://drive.google.com/file/d/1ThSd3PRnOy5Znr587id5cOt6XZTwL2kd/view?usp=sharing
 
+## Info Document
+.Docx download available at: https://drive.google.com/file/d/1dS4y_JnVKRtnvFZ2_k6ggpEjRIpjgMgO/view?usp=sharing
+
 ## Description
 You have found yourself on land you should not have ever set foot. Or perhaps it is beleived you saw something you should never have witnessed. Either way, to fully uncover what is really going on here, you must collect evidence around the forest of the previous victims of the celebrities hunting you and make it to the authorities. The only way to truly stop them and save yourself is to get those photographs.
 
